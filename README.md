@@ -15,6 +15,7 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 * “Cyberbullying/Harassment” Community Guideline Strike on a Livestream Covering the EDP445 Situation at the time. At the time other people have gotten similar strikes to mines. 
 * “Child Safety” CG Strike | Was Later Resolved.
 * "Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
+* "Violent criminal organizations policy" because the video was titled 'What is the GD Dream?' mistaking GD for Gangster Disciple when it was a Geometry Dash video.
 
 # Video Index
 
