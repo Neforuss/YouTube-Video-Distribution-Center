@@ -16,6 +16,7 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 * “Child Safety” CG Strike | Was Later Resolved.
 * "Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
 * "Violent criminal organizations policy" because the video was titled 'What is the GD Dream?' mistaking GD for Gangster Disciple when it was a Geometry Dash video.
+* "Policy on harmful conspiracy theories" for a video titled "LAW AND ORDER LITERALLY HAD A PIZZAGATE EPISODE TO PSYOP YOU ALL LMAOOOOO" when it was just a Geometry Dash level completion, nothing to do with Pizzagate.
 
 # Video Index
 
