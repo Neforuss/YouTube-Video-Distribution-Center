@@ -13,13 +13,17 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 * Onision False Copyright Strike on a video that was of his mental breakdown vocoded to the song Oingo Boingo - Little Girls
    <img width="622" height="749" alt="ONISION-BS-COPYRIGHT-STRIKE" src="https://github.com/user-attachments/assets/aee39c4a-6c35-4062-ac19-f7c91adefe9c" />
 
-* “Cyberbullying/Harassment” Community Guideline Strike on a Livestream Covering the EDP445 Situation at the time. At the time other people have gotten similar strikes to mines.
+* “Cyberbullying/Harassment” Community Guideline Strike on a Livestream Covering the EDP445 Situation at the time. At the time other people have gotten similar strikes to mines. STRIKE 1
+
+  <img width="651" height="684" alt="mboxview64_7ikbVoQ07i" src="https://github.com/user-attachments/assets/f58b95ed-7839-4363-b019-c9d00b8d9d8c" />
 
 * “Child Safety” CG Strike, most likely was the part in the video where visibly of age people were playing with fire | Was Later Resolved. 
-  <img width="830" height="786" alt="mboxview64_c2ZLZCslwT" src="https://github.com/user-attachments/assets/abdbd737-b17e-49ff-9e85-a7ee799f3cd1" />
-* "Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
 
-<img width="719" height="761" alt="mboxview64_p4IV4b9JO6" src="https://github.com/user-attachments/assets/b07b2ac5-f7a8-462c-8d63-01e381b2b31d" />
+  <img width="830" height="786" alt="mboxview64_c2ZLZCslwT" src="https://github.com/user-attachments/assets/abdbd737-b17e-49ff-9e85-a7ee799f3cd1" />
+
+* "Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force. STRIKE 2
+
+<img width="719" height="761" alt="mboxview64_p4IV4b9JO6" src="https://github.com/user-attachments/assets/f2b899eb-cd2e-4a81-82ef-13d8a5a9ec6b" />
   
 * "Violent criminal organizations policy" because the video was titled 'What is the GD Dream?' mistaking GD for Gangster Disciple when it was a Geometry Dash video.
 
