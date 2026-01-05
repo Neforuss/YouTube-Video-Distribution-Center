@@ -26,6 +26,10 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 
 * "Policy on harmful conspiracy theories" for a video titled "LAW AND ORDER LITERALLY HAD A PIZZAGATE EPISODE TO PSYOP YOU ALL LMAOOOOO" when it was just a Geometry Dash level completion, nothing to do with Pizzagate.
 
+<img width="673" height="850" alt="mboxview64_LqT55eu9Ui" src="https://github.com/user-attachments/assets/6e24d3e0-5b25-4e01-8745-52e0e3a98c44" />
 
+* "Violent criminal organizations policy" for me writing the first section of the Unabomber Manifesto deep in a livestream, when, and I know I don't need to look for this, there are videos praising him on the same platform when my infraction was simply a part of a writing exercise. 
+
+<img width="704" height="547" alt="mboxview64_rImLJLmtsx" src="https://github.com/user-attachments/assets/b3775823-90bd-494f-893f-e07f67213ace" />
 
 
