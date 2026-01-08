@@ -26,7 +26,7 @@
 | 632 |  | 2024-MM-DD | ![thumb](/thumbnails/632.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 631 |  | 2024-MM-DD | ![thumb](/thumbnails/631.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 630 |  | 2024-MM-DD | ![thumb](/thumbnails/630.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 629 |  | 2023-MM-DD | ![thumb](/thumbnails/629.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 629 | A Dissertation On Millennials | 2023-12-10 | ![thumb](/thumbnails/629.png) | [Watch](https://youtu.be/xJSnke-FD8c) | [Rumble](...) [Odysee](https://odysee.com/@Neforus:d/a-dissertation-on-millennials:4) [BitChute](...) [Twitter/X](...) |
 | 628 |  | 2023-MM-DD | ![thumb](/thumbnails/628.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 627 |  | 2023-MM-DD | ![thumb](/thumbnails/627.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 626 |  | 2023-MM-DD | ![thumb](/thumbnails/626.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
