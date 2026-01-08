@@ -27,7 +27,7 @@
 | 631 |  | 2024-MM-DD | ![thumb](/thumbnails/631.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 630 | 2.2 IS REVOLUTION | 2024-01-01 | ![thumb](/thumbnails/630.png) | [Watch](https://youtu.be/87XNRihOfEM) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 629 | A Dissertation On Millennials | 2023-12-10 | ![thumb](/thumbnails/629.png) | [Watch](https://youtu.be/xJSnke-FD8c) | [Rumble](https://rumble.com/v7414ka-a-dissertation-on-millennials.html) [Odysee](https://odysee.com/@Neforus:d/a-dissertation-on-millennials:4) [BitChute](https://www.bitchute.com/video/To9MyAYTQSrP/) [Twitter/X](https://x.com/Neforus/status/2009132809341001794) |
-| 628 |  | 2023-MM-DD | ![thumb](/thumbnails/628.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 628 | THE ANIME THAT PREDICTED THE FUTURE | 2023-12-04 | ![thumb](/thumbnails/628.png) | [Watch](https://youtu.be/4fd5Sl3_zrI) | [Rumble](https://rumble.com/v3zjw2a-the-anime-that-predicted-the-future.html?e9s=src_v1_upp_a) [Odysee](https://odysee.com/@Neforus:d/the-anime-that-predicted-the-future:7) [BitChute](...) [Twitter/X](...) |
 | 627 |  | 2023-MM-DD | ![thumb](/thumbnails/627.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 626 |  | 2023-MM-DD | ![thumb](/thumbnails/626.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 625 |  | 2023-MM-DD | ![thumb](/thumbnails/625.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
