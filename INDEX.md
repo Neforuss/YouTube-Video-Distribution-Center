@@ -55,7 +55,7 @@
 | 603 |  | 2023-MM-DD | ![thumb](/thumbnails/603.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 602 |  | 2023-MM-DD | ![thumb](/thumbnails/602.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 601 |  | 2023-MM-DD | ![thumb](/thumbnails/601.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 600 |  | 2023-MM-DD | ![thumb](/thumbnails/600.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 600 | REDACTED | 2023-05-25 | ![thumb](/thumbnails/600.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 599 |  | 2023-MM-DD | ![thumb](/thumbnails/599.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 598 |  | 2023-MM-DD | ![thumb](/thumbnails/598.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 597 |  | 2023-MM-DD | ![thumb](/thumbnails/597.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
